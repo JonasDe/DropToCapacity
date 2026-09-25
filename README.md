@@ -15,7 +15,7 @@ A Valheim mod. Over your carry weight? Hold **Left Alt** and click an item in yo
 
 You need **BepInExPack for Valheim** installed first.
 
-**Download:** get `DropToCapacity-0.1.0.zip` from the [Releases](../../releases) page, or the two files in the `plugins` folder of this repo:
+**Download:** get `DropToCapacity-0.1.1.zip` from the [Releases](../../releases) page, or the two files in the `plugins` folder of this repo:
 
 - `DropToCapacity.dll`
 - `DropToCapacity.Core.dll`
