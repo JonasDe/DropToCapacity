@@ -1,0 +1,7 @@
+{
+  "name": "DropToCapacity",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/JonasDe/DropToCapacity",
+  "description": "Over your carry weight? Hold Left Alt and click an item to drop just enough of it to get back to your limit. Works while walking or running.",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2351"]
+}
